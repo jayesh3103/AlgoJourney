@@ -38,7 +38,7 @@ Each challenge is organized as follows:
 ## Challenges Log
 |Sr.No| Date      | Problem Title | Solution Link |
 |-----|-----------|---------------|---------------|
-|1.| 11-10-2025 | [CF Problem 35A](https://codeforces.com/contest/35/problem/A)(#) | [Java](#) |
+|1.| 11-10-2025 | [CF Problem 35A](https://codeforces.com/contest/35/problem/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/35A) |
 
 > **Note:** The `Challenges Log` will be updated daily as I solve new problems.
 
