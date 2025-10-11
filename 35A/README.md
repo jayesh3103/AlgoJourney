@@ -58,3 +58,12 @@ public class Main {
         }
     }
 }
+```
+
+---
+
+## ✅ Complexity
+
+- **Time Complexity:** `O(1)` — only 3 shuffles, fixed number of operations.  
+- **Space Complexity:** `O(1)` — uses just a single variable to store the ball position.  
+
