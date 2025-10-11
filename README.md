@@ -59,5 +59,4 @@ For personal reference only, but if you want to reach out:
 
 ---
 
-Let's keep the streak going! 💪  
-> *“If you can get 1% better each day for one year, you'll end up 37 times better by the time you're done.”* – James Clear
+Let's keep the streak going! 💪 
