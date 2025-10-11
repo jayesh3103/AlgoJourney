@@ -12,7 +12,7 @@
 
 Welcome to my **AlgoJourney repository**! 🚀  
 
-This is my personal space for **daily Codeforces problem-solving**, tracking my progress, and improving my problem-solving skills in algorithms and data structures.
+This is my personal space for **daily Codeforces problem-solving**, tracking my progress, and refining my problem-solving skills in algorithms and data structures.
 
 ---
 
