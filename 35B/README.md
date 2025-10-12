@@ -97,5 +97,5 @@ public class Main {
 
 ## ✅ Complexity
 
-- **Time Complexity:** O(n × m) — In the worst case, each addition may scan the entire grid (n, m ≤ 30, so acceptable).
-- **Space Complexity:** O(n × m) — For storing the warehouse layout and box positions.
+- **Time Complexity:** O(n × m)
+- **Space Complexity:** O(n × m) 
