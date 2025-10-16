@@ -67,21 +67,17 @@ public class Main {
 
         boolean[][] bad = new boolean[8][8];
 
-        // Mark the positions of the rook and knight
         bad[rR][rC] = true;
         bad[kR][kC] = true;
 
-        // Mark rook's attack path
         for (int i = 0; i < 8; i++) {
             bad[rR][i] = true;
             bad[i][rC] = true;
         }
 
-        // Mark knight attack paths
         markKnight(bad, rR, rC);
         markKnight(bad, kR, kC);
 
-        // Count all safe cells
         int count = 0;
         for (int i = 0; i < 8; i++) {
             for (int j = 0; j < 8; j++) {
