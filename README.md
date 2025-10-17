@@ -39,13 +39,13 @@ Each challenge is organized as follows:
 ## Challenges Log
 |Sr.No| Date      | Problem Title | Solution Link |
 |-----|-----------|---------------|---------------|
-|1.| 11-10-2025 | [CF Problem 35A](https://codeforces.com/contest/35/problem/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/35A) |
+|1.| 11-10-2025 | [CF Problem 35A](https://codeforces.com/problemset/problem/35/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/35A) |
 |2.| 12-10-2025 | [CF Problem 35B](https://codeforces.com/problemset/problem/35/B) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/35B) |
 |3.| 13-10-2025 | [CF Problem 36A](https://codeforces.com/problemset/problem/36/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/36A) |
 |4.| 14-10-2025 | [CF Problem 37A](https://codeforces.com/problemset/problem/37/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/37A) |
 |5.| 15-10-2025 | [CF Problem 38A](https://codeforces.com/problemset/problem/38/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/38A) |
 |6.| 16-10-2025 | [CF Problem 38B](https://codeforces.com/problemset/problem/38/B) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/38B) |
-
+|7.| 16-10-2025 | [CF Problem 39A](https://codeforces.com/problemset/problem/39/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/39A) |
 
 > **Note:** The `Challenges Log` will be updated daily as I solve new problems.
 
