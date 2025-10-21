@@ -105,5 +105,5 @@ public class Main {
 
 ## ✅ Complexity
 
-- **Time Complexity:** O(64) 
-- **Space Complexity:** O(64)  
+- **Time Complexity:** `O(64)`
+- **Space Complexity:** `O(64)`  
