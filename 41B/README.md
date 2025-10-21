@@ -63,8 +63,8 @@ public class Main {
             int n = in.nextInt();
             int b = in.nextInt();
             
-            int maxMoney = b;       // Best total found so far
-            int minPrice = 2001;    // Initialize with a large number
+            int maxMoney = b;       
+            int minPrice = 2001;    
 
             for (int i = 0; i < n; i++) {
                 int price = in.nextInt();
