@@ -138,5 +138,5 @@ public class Main {
 
 ## ✅ Complexity
 
-- **Time Complexity:** O(nlogn) 
-- **Space Complexity:** O(n)
+- **Time Complexity:** `O(nlogn)` 
+- **Space Complexity:** `O(n)`
