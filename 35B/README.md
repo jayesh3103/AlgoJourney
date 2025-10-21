@@ -97,5 +97,5 @@ public class Main {
 
 ## ✅ Complexity
 
-- **Time Complexity:** O(n × m)
-- **Space Complexity:** O(n × m) 
+- **Time Complexity:** `O(n × m)`
+- **Space Complexity:** `O(n × m)` 
