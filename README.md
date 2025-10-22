@@ -50,6 +50,7 @@ Each challenge is organized as follows:
 |9.| 19-10-2025 | [CF Problem 40B](https://codeforces.com/problemset/problem/40/B) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/40B) |
 |10.| 20-10-2025 | [CF Problem 41A](https://codeforces.com/problemset/problem/41/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/41A) |
 |11.| 21-10-2025 | [CF Problem 41B](https://codeforces.com/problemset/problem/41/B) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/41B) |
+|12.| 22-10-2025 | [CF Problem 41B](https://codeforces.com/problemset/problem/42/B) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/42B) |
 
 > **Note:** The `Challenges Log` will be updated daily as I solve new problems.
 
