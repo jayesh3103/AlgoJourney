@@ -90,5 +90,5 @@ public class Main {
 ---
 
 ## ✅ Complexity
-- **Time Complexity:** `O(1)`
+- **Time Complexity:** `O(12)`
 - **Space Complexity:** `O(1)`
