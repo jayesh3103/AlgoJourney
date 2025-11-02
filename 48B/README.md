@@ -1,4 +1,4 @@
-# 🌿 Land Lot — Codeforces B Problem
+# 🌿 Land Lot — Codeforces Problem
 
 ---
 
