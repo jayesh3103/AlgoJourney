@@ -1,4 +1,4 @@
-# 🕵️ A. Sleuth — Codeforces Daily Challenge  
+# 🕵️ Sleuth — Codeforces Daily Challenge  
 
 Welcome to today’s challenge in **AlgoJourney**!  
 Vasya’s friends have had enough of his endless detective questions — so you, the coder, must automate their answers.  
