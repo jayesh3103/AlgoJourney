@@ -5,7 +5,7 @@
 [![Daily Challenges](https://img.shields.io/badge/Daily-Challenges-blue?style=for-the-badge)](https://codeforces.com/)  
 [![Languages](https://img.shields.io/badge/Languages-Java-orange?style=for-the-badge)](https://github.com/)  
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-green?style=for-the-badge)](CONTRIBUTING.md)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-Jayesh.Muley-0057FF?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/jayesh.muley)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Jayesh.Muley-0057FF?style=for-the-badge&logo=codeforces)](https://codeforces.com)
 
 ---
 
