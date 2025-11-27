@@ -1,5 +1,4 @@
-# 🔍 B. Tyndex.Brome — Error Function Matching Engine  
-### 📅 Daily Codeforces Challenge — AlgoJourney
+# 🔍 Tyndex.Brome — Error Function Matching Engine  
 
 Today’s challenge dives into the heart of **Tyndex.Brome**, the futuristic browser that auto-corrects mistyped URLs by computing a special **error function F** for each potential address. Your task is to simulate this scoring engine with high efficiency — and you nailed it flawlessly.
 
