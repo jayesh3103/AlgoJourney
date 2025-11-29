@@ -1,4 +1,4 @@
-# ⚔️ Codeforces Daily Problem — B. Settlers' Training
+# ⚔️ Settlers' Training
 
 ## 📌 Problem Summary  
 In the game *Settlers II*, a defense structure contains **n soldiers**, each with a rank from **1 to k**.  
