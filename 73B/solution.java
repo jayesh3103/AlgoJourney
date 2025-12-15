@@ -12,28 +12,24 @@ public class Main {
         }
     }
 
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        String line = br.readLine();
+    public static void main(String[] args) {
+        FastScanner sc = new FastScanner();
+        String line = sc.next();
         if (line == null) return;
         
-        int n = Integer.parseInt(line.trim());
+        int n = Integer.parseInt(line);
         Racer[] racers = new Racer[n];
         
         for (int i = 0; i < n; i++) {
-            StringTokenizer st = new StringTokenizer(br.readLine());
-            String name = st.nextToken();
-            int score = Integer.parseInt(st.nextToken());
+            String name = sc.next();
+            int score = sc.nextInt();
             racers[i] = new Racer(name, score);
         }
 
-        int m = Integer.parseInt(br.readLine().trim());
+        int m = sc.nextInt();
         ArrayList<Integer> points = new ArrayList<>();
-        if (m > 0) {
-            StringTokenizer st = new StringTokenizer(br.readLine());
-            for (int i = 0; i < m; i++) {
-                points.add(Integer.parseInt(st.nextToken()));
-            }
+        for (int i = 0; i < m; i++) {
+            points.add(sc.nextInt());
         }
         
         while (points.size() < n) {
@@ -41,7 +37,7 @@ public class Main {
         }
         Collections.sort(points);
 
-        String vasyaName = br.readLine().trim();
+        String vasyaName = sc.next();
         int vIdx = -1;
         for (int i = 0; i < n; i++) {
             if (racers[i].name.equals(vasyaName)) {
@@ -86,7 +82,7 @@ public class Main {
         for (int i = 0; i < n; i++) {
             if (i == vIdx) continue;
             int need = vWorstScore - racers[i].score;
-            if (racers[i].name.compareTo(vasyaName) < 0) {
+            if (vasyaName.compareTo(racers[i].name) > 0) {
                 
             } else {
                 need++;
@@ -111,5 +107,31 @@ public class Main {
         int worstRank = 1 + pushedAbove;
 
         System.out.println(bestRank + " " + worstRank);
+    }
+
+    static class FastScanner {
+        BufferedReader br;
+        StringTokenizer st;
+
+        public FastScanner() {
+            br = new BufferedReader(new InputStreamReader(System.in));
+        }
+
+        String next() {
+            while (st == null || !st.hasMoreTokens()) {
+                try {
+                    String line = br.readLine();
+                    if (line == null) return null;
+                    st = new StringTokenizer(line);
+                } catch (IOException e) {
+                    return null;
+                }
+            }
+            return st.nextToken();
+        }
+
+        int nextInt() {
+            return Integer.parseInt(next());
+        }
     }
 }
