@@ -1,8 +1,6 @@
 # 🚆 B. Train
 
 ## 📅 Problem of the Day — Codeforces  
-**Difficulty:** Medium–Hard  
-**Category:** Game Theory, Simulation, State Tracking  
 
 ---
 
