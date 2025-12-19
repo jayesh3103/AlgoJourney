@@ -1,8 +1,6 @@
 # 📌 B. Facetook Priority Wall
 
 ## 📅 Problem of the Day — Codeforces  
-**Difficulty:** Easy–Medium  
-**Category:** Strings, Maps, Sorting  
 
 ---
 
