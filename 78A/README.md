@@ -1,8 +1,6 @@
 # 📌 A. Haiku
 
 ## 📅 Problem of the Day — Codeforces  
-**Difficulty:** Easy  
-**Category:** Strings, Implementation  
 
 ---
 
