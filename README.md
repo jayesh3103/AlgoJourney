@@ -110,10 +110,11 @@ Each challenge is organized as follows:
 |69.| 18-12-2025 | [CF Problem 75A](https://codeforces.com/problemset/problem/75/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/75A) |
 |70.| 19-12-2025 | [CF Problem 75B](https://codeforces.com/problemset/problem/75/B) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/75B) |
 |71.| 20-12-2025 | [CF Problem 76A](https://codeforces.com/problemset/problem/76/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/76A) |
-|71.| 21-12-2025 | [CF Problem 77A](https://codeforces.com/problemset/problem/77/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/77A) |
-|72.| 22-12-2025 | [CF Problem 77B](https://codeforces.com/problemset/problem/77/B) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/77B) |
-|73.| 23-12-2025 | [CF Problem 78A](https://codeforces.com/problemset/problem/78/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/78A) |
-|74.| 24-12-2025 | [CF Problem 78B](https://codeforces.com/problemset/problem/78/B) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/78B) |
+|72.| 21-12-2025 | [CF Problem 77A](https://codeforces.com/problemset/problem/77/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/77A) |
+|73.| 22-12-2025 | [CF Problem 77B](https://codeforces.com/problemset/problem/77/B) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/77B) |
+|74.| 23-12-2025 | [CF Problem 78A](https://codeforces.com/problemset/problem/78/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/78A) |
+|75.| 24-12-2025 | [CF Problem 78B](https://codeforces.com/problemset/problem/78/B) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/78B) |
+|76.| 25-12-2025 | [CF Problem 79A](https://codeforces.com/problemset/problem/79/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/79A) |
 
 > **Note:** The `Challenges Log` will be updated daily as I solve new problems.
 
