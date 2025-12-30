@@ -79,9 +79,9 @@ public class Main {
             char c = s.charAt(i);
             
             if (top >= 0 && stack[top] == c) {
-                top--; // remove pair
+                top--; 
             } else {
-                stack[++top] = c; // add character
+                stack[++top] = c; 
             }
         }
         
