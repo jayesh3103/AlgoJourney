@@ -1,3 +1,46 @@
+# 🧠 A. Help Victoria the Wise — Codeforces
+
+## 📌 Problem Summary
+
+Victoria the Wise received a **perfect cube-shaped box** with **six identical slots**, one on each face.  
+She also received **six gems**, each having a color from `{R, O, Y, G, B, V}`.
+
+### Rules:
+- Each face must contain **exactly one gem**
+- Gems of the **same color are indistinguishable**
+- Two decorations are considered **the same** if one can be obtained from the other by **rotating the cube**
+- The cube has **24 rotational symmetries**
+
+👉 Your task is to compute the **number of distinct ways** to decorate the cube.
+
+---
+
+## 📥 Input
+
+- One string of **exactly 6 characters**
+- Each character ∈ `{R, O, Y, G, B, V}`
+
+---
+
+## 📤 Output
+
+- A single integer — the number of **distinct valid decorations**
+
+---
+
+## 🧠 Key Idea
+
+This is a **Burnside’s Lemma / Group Action** problem.
+
+### Core observations:
+- A cube has **24 rotational symmetries**
+- For each rotation, we count how many colorings remain unchanged
+- Each rotation corresponds to a **permutation of the 6 faces**
+- The number of fixed colorings depends on the **cycle structure** of that permutation
+- Final answer =  
+
+(sum of valid colorings over all rotations) / 24
+
 ---
 
 ## 🧮 Algorithm Outline
