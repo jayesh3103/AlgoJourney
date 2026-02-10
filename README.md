@@ -156,6 +156,7 @@ Each challenge is organized as follows:
 |115.| 07-02-2026 | [CF Problem 104A](https://codeforces.com/problemset/problem/104/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/104A) |
 |116.| 08-02-2026 | [CF Problem 105A](https://codeforces.com/problemset/problem/105/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/105A) |
 |117.| 09-02-2026 | [CF Problem 105B](https://codeforces.com/problemset/problem/105/B) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/105B) |
+|118.| 10-02-2026 | [CF Problem 106A](https://codeforces.com/problemset/problem/106/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/106A) |
 
 > **Note:** The `Challenges Log` will be updated daily as I solve new problems.
 
