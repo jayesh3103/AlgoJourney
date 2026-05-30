@@ -260,6 +260,7 @@ Each challenge is organized as follows:
 |219.| 27-05-2026 | [CF Problem 159A](https://codeforces.com/problemset/problem/159/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/159A) |
 |220.| 28-05-2026 | [CF Problem 159B](https://codeforces.com/problemset/problem/159/B) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/159B) |
 |221.| 29-05-2026 | [CF Problem 160A](https://codeforces.com/problemset/problem/160/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/160A) |
+|222.| 30-05-2026 | [CF Problem 160B](https://codeforces.com/problemset/problem/160/B) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/160B) |
 
 
 
