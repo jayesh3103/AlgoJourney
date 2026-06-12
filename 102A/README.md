@@ -7,7 +7,7 @@ Gerald wants to buy **exactly three clothing items** from a shop such that:
 - Every pair among the three items **matches each other**
 - The **total price is minimum**
 - If no such triple exists, output `-1`
-
+ 
 The shop provides:
 - `n` clothing items
 - `m` matching pairs
