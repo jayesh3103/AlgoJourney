@@ -290,6 +290,7 @@ Each challenge is organized as follows:
 |249.| 27-06-2026 | [CF Problem 180A](https://codeforces.com/problemset/problem/180/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/180A) |
 |250.| 28-06-2026 | [CF Problem 180B](https://codeforces.com/problemset/problem/180/B) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/180B) |
 |251.| 29-06-2026 | [CF Problem 181A](https://codeforces.com/problemset/problem/181/A) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/181A) |
+|252.| 30-06-2026 | [CF Problem 181B](https://codeforces.com/problemset/problem/181/B) | [Java](https://github.com/jayesh3103/AlgoJourney/tree/main/181B) |
 
 
 > **Note:** The `Challenges Log` will be updated daily as I solve new problems.
